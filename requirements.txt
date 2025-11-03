@@ -1,0 +1,35 @@
+# Core Python version
+python==3.11.8
+
+# Machine Learning Framework
+torch==2.3.0
+torchvision==0.18.0
+
+# Numerical & Data Handling
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# Visualization & Plotting
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Web Dashboard (UI)
+streamlit==1.39.0
+
+# PDF & Report Generation
+fpdf2==2.7.9
+
+# Progress bars, utilities, and file management
+tqdm==4.66.4
+joblib==1.4.2
+
+# Optional - Interactive widgets (sliders, inputs)
+altair==5.3.0
+plotly==5.23.0
+
+# Optional - Image handling if needed later
+Pillow==10.4.0
+
+# Ensure reproducibility and clean logging
+pyyaml==6.0.2
